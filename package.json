@@ -1,0 +1,12 @@
+{
+  "name": "simple-utils-testing-only",
+  "version": "1.0.0",
+  "description": "A simple utility package with optimized performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils", "performance", "optimization"],
+  "author": "",
+  "license": "MIT"
+}
